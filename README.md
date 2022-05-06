@@ -1,4 +1,4 @@
 # Myra
 Myra beta for Scratch
 
-<b>Open in https://stretch3.github.io</b>
+<b>Open in https://osmanicteam.github.io/myra-development-gui/</b>
